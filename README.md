@@ -1,4 +1,4 @@
-# Visual Studio Code Remote Container
+# TecoGAN for Visual Studio Code Remote Container
 Open the terminal (PowerShell etc.), and command,
 ```
 git clone https://github.com/supplepentan/penta-tecogan-vscode-remote-container.git
